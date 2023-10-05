@@ -1,3 +1,5 @@
 venv/
 *.csv
 .env
+src/__pycache__/
+__pycache__/
